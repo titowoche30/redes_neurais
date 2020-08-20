@@ -2,4 +2,4 @@
 
 Multilayer Perceptron e CNN 
 
-Inspirados [https://www.youtube.com/watch?v=aBIGJeHRZLQ](nesse vídeo) e [https://www.youtube.com/watch?v=44U8jJxaNp8](nesse)
+Inspirados [nesse vídeo](https://www.youtube.com/watch?v=aBIGJeHRZLQ) e [nesse](https://www.youtube.com/watch?v=44U8jJxaNp8)
